@@ -40,8 +40,8 @@ Software applications, tools, and APIs you can use to solve audio-related proble
 
 - **APIs**
     - [Dolby.io Media Enhance API](https://dolby.io/products/enhance/) - services to enhance media such as correcting audio impurities like noise, sibilance, equalization, tonality, loudness
-    - [Dolby.io Media Transcode API](https://dolby.io/products/transcode/) - Convert and assemble content that looks and sounds great no matter the device or where it’s viewed. With support for high resolution, high frame rates, and web and streaming formats.
-    - [Dolby.io Media Music Mastering API](https://dolby.io/products/music-mastering/) - Get professional-sounding audio masters that keep your creative intent intact with the powerful Music Mastering API from Dolby.io — the result of thousands of hours of musical analysis.
+    - [Dolby.io Media Transcode API](https://dolby.io/products/transcode/) - Convert and assemble content that looks and sounds great no matter the device or where itâs viewed. With support for high resolution, high frame rates, and web and streaming formats.
+    - [Dolby.io Media Music Mastering API](https://dolby.io/products/music-mastering/) - Get professional-sounding audio masters that keep your creative intent intact with the powerful Music Mastering API from Dolby.io â the result of thousands of hours of musical analysis.
 - **Apps**
     - [Avid Pro Tools](https://www.avid.com/pro-tools) - music software to create audio recording, composing, editing, and mastering
     - [iZotope](https://www.izotope.com/en/products.html) - audio software for music production and post production, composing, editing, and mastering
@@ -151,7 +151,7 @@ Speech synthesis solutions...
 
 - [Aflorithmic API.audio](https://www.api.audio/) - Simple APIs to transform text to speech, add sound design and make it sound beautiful at scale.
 - [Amazon Polly](https://aws.amazon.com/polly/) -  Turn text into lifelike speech using deep learning
-- [Google Cloud Text to Speech](https://cloud.google.com/text-to-speech) - Convert text into natural-sounding speech using an API powered by the best of Google’s AI technologies.
+- [Google Cloud Text to Speech](https://cloud.google.com/text-to-speech) - Convert text into natural-sounding speech using an API powered by the best of Googleâs AI technologies.
 - [Azure Text to Speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - A Speech service feature that converts text to lifelike speech
 - [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech) - Convert text into natural-sounding speech in a variety of languages and voices
 
@@ -283,7 +283,7 @@ See something missing, view the [contribute](#contribute) section and let us kno
 - [Designing Sound](https://designingsound.org/category/tutorials/) - tutorials on the art & technique of sound design
 - [ProAudioGirl](https://apriltucker.com/blog/) - Amy Tucker's blog covering audio for filmmakers, dialog editing basics, hacks & tricks, etc.
 - [The Ear Training Guide for Audio Producers](https://training.npr.org/2017/01/31/the-ear-training-guide-for-audio-producers/) - NPR training guide to help identify problematic audio and prevent most common problems
-- [Using ffmpeg to manipulate audio and video files](http://howto-pages.org/ffmpeg/) - How to tame the "Swiss army knife" of audio and video manipulation…
+- [Using ffmpeg to manipulate audio and video files](http://howto-pages.org/ffmpeg/) - How to tame the "Swiss army knife" of audio and video manipulationâ¦
 
 ---
 
@@ -334,3 +334,5 @@ Areas of experimentation and exploration for awesome algorithms.
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
